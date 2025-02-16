@@ -83,3 +83,15 @@ http://localhost:3000
 ---
 
 Let me know if you need further assistance! 😊
+## Contact
+For any questions or feedback, feel free to reach out:
+- **Name**: Rishikeshan K
+- **Email**: zeus94424@gmail.com
+- **GitHub**: [ZEUSRISHI](https://github.com/ZEUSRISHI)
+- **LinkedIn**: [Rishikeshan K](https://www.linkedin.com/in/rishikeshan-k-490248259/)
+
+---
+
+## Live Demo
+Check out the live demo of the project:
+[FOOD Live Demo](https://food-frontend-qabn.onrender.com/#app-download)
