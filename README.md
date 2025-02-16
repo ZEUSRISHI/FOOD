@@ -1,6 +1,5 @@
 # FOOD - Full-Stack Food Delivery Application
 
-![Project Banner](https://via.placeholder.com/1200x400) <!-- Add a banner image if available -->
 
 **FOOD** is a full-stack food delivery application built with modern web technologies. It allows users to browse restaurants, place orders, and track deliveries in real-time. The application is designed to be scalable, secure, and user-friendly.
 
