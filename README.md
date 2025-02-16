@@ -46,8 +46,40 @@ Follow these steps to set up the project locally:
    git clone https://github.com/ZEUSRISHI/FOOD.git
    cd FOOD
 
-Install dependencies for both frontend and backend:
 cd client
 npm install
 cd ../server
 npm install
+
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret_key
+PORT=5000
+
+cd server
+npm start
+
+cd client
+npm start
+
+http://localhost:3000
+
+
+---
+
+### **How to Use This**
+1. Go to your **FOOD** repository on GitHub.
+2. Click on the **Add file** button and select **Create new file**.
+3. Name the file `README.md`.
+4. Copy and paste the above content into the file editor.
+5. Scroll down and click **Commit new file**.
+
+---
+
+### **Customization**
+- Replace placeholder text (e.g., `your_mongodb_connection_string`, `your_jwt_secret_key`) with actual values.
+- Add actual screenshots by replacing the `https://via.placeholder.com/...` URLs with links to your project screenshots.
+- Update the **Features**, **Technologies Used**, and other sections to match your project.
+
+---
+
+Let me know if you need further assistance! 😊
