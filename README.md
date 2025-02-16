@@ -25,13 +25,6 @@
 
 ---
 
-## Screenshots
-![Home Page](https://via.placeholder.com/600x400) <!-- Add actual screenshots -->
-![Restaurant Page](https://via.placeholder.com/600x400)
-![Order Tracking](https://via.placeholder.com/600x400)
-
----
-
 ## Installation
 Follow these steps to set up the project locally:
 
